@@ -1,0 +1,19 @@
+{
+  "schemaVersion": 1,
+  "id": "oneblock",
+  "version": "${version}",
+  "name": "OneBlock",
+  "description": "OneBlock mit bis zu 12 Inseln, 32 Ebenen, Monsterwellen, Truhen-Loot und Drachen-Timer. Portiert aus dem gleichnamigen Datapack.",
+  "authors": ["OneBlock"],
+  "license": "All-Rights-Reserved",
+  "environment": "*",
+  "entrypoints": {
+    "main": ["de.oneblock.OneBlockMod"]
+  },
+  "depends": {
+    "fabricloader": ">=0.19.0",
+    "minecraft": "~26.2",
+    "java": ">=25",
+    "fabric-api": "*"
+  }
+}

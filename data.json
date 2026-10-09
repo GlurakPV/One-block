@@ -1,0 +1,2205 @@
+{
+ "layers": [
+  {
+   "name": "Plains",
+   "blocks": [
+    "minecraft:grass_block",
+    "minecraft:grass_block",
+    "minecraft:grass_block",
+    "minecraft:dirt",
+    "minecraft:dirt",
+    "minecraft:coarse_dirt",
+    "minecraft:oak_log",
+    "minecraft:oak_leaves[persistent=true]"
+   ],
+   "length": 200
+  },
+  {
+   "name": "Wiese",
+   "blocks": [
+    "minecraft:grass_block",
+    "minecraft:grass_block",
+    "minecraft:dirt",
+    "minecraft:hay_block",
+    "minecraft:pumpkin",
+    "minecraft:oak_log",
+    "minecraft:oak_leaves[persistent=true]",
+    "minecraft:stone"
+   ],
+   "length": 400
+  },
+  {
+   "name": "Wald",
+   "blocks": [
+    "minecraft:grass_block",
+    "minecraft:dirt",
+    "minecraft:oak_log",
+    "minecraft:oak_leaves[persistent=true]",
+    "minecraft:birch_log",
+    "minecraft:birch_leaves[persistent=true]",
+    "minecraft:podzol",
+    "minecraft:stone"
+   ],
+   "length": 450
+  },
+  {
+   "name": "Dunkelwald",
+   "blocks": [
+    "minecraft:dark_oak_log",
+    "minecraft:dark_oak_leaves[persistent=true]",
+    "minecraft:grass_block",
+    "minecraft:dirt",
+    "minecraft:podzol",
+    "minecraft:coarse_dirt",
+    "minecraft:oak_log",
+    "minecraft:mossy_cobblestone",
+    "minecraft:brown_mushroom_block",
+    "minecraft:stone",
+    "minecraft:iron_ore"
+   ],
+   "length": 500
+  },
+  {
+   "name": "Taiga",
+   "blocks": [
+    "minecraft:spruce_log",
+    "minecraft:spruce_leaves[persistent=true]",
+    "minecraft:podzol",
+    "minecraft:coarse_dirt",
+    "minecraft:grass_block",
+    "minecraft:dirt",
+    "minecraft:mossy_cobblestone",
+    "minecraft:stone",
+    "minecraft:iron_ore"
+   ],
+   "length": 550
+  },
+  {
+   "name": "Schnee",
+   "blocks": [
+    "minecraft:snow_block",
+    "minecraft:snow_block",
+    "minecraft:spruce_log",
+    "minecraft:spruce_leaves[persistent=true]",
+    "minecraft:packed_ice",
+    "minecraft:dirt",
+    "minecraft:podzol",
+    "minecraft:stone",
+    "minecraft:iron_ore"
+   ],
+   "length": 600
+  },
+  {
+   "name": "Dschungel",
+   "blocks": [
+    "minecraft:jungle_log",
+    "minecraft:jungle_leaves[persistent=true]",
+    "minecraft:mossy_cobblestone",
+    "minecraft:grass_block",
+    "minecraft:dirt",
+    "minecraft:moss_block",
+    "minecraft:melon",
+    "minecraft:bamboo_block",
+    "minecraft:stone",
+    "minecraft:iron_ore"
+   ],
+   "length": 650
+  },
+  {
+   "name": "Sumpf",
+   "blocks": [
+    "minecraft:mud",
+    "minecraft:mangrove_log",
+    "minecraft:mangrove_leaves[persistent=true]",
+    "minecraft:muddy_mangrove_roots",
+    "minecraft:clay",
+    "minecraft:moss_block",
+    "minecraft:grass_block",
+    "minecraft:oak_leaves[persistent=true]",
+    "minecraft:stone",
+    "minecraft:iron_ore"
+   ],
+   "length": 700
+  },
+  {
+   "name": "Wueste",
+   "blocks": [
+    "minecraft:sandstone",
+    "minecraft:sandstone",
+    "minecraft:smooth_sandstone",
+    "minecraft:cut_sandstone",
+    "minecraft:chiseled_sandstone",
+    "minecraft:terracotta",
+    "minecraft:orange_terracotta",
+    "minecraft:yellow_terracotta",
+    "minecraft:stone",
+    "minecraft:iron_ore"
+   ],
+   "length": 750
+  },
+  {
+   "name": "Badlands",
+   "blocks": [
+    "minecraft:red_sandstone",
+    "minecraft:red_sandstone",
+    "minecraft:terracotta",
+    "minecraft:orange_terracotta",
+    "minecraft:red_terracotta",
+    "minecraft:yellow_terracotta",
+    "minecraft:brown_terracotta",
+    "minecraft:white_terracotta",
+    "minecraft:stone",
+    "minecraft:iron_ore"
+   ],
+   "length": 800
+  },
+  {
+   "name": "Savanne",
+   "blocks": [
+    "minecraft:acacia_log",
+    "minecraft:acacia_leaves[persistent=true]",
+    "minecraft:grass_block",
+    "minecraft:coarse_dirt",
+    "minecraft:dirt",
+    "minecraft:terracotta",
+    "minecraft:orange_terracotta",
+    "minecraft:stone",
+    "minecraft:iron_ore"
+   ],
+   "length": 800
+  },
+  {
+   "name": "Kirschhain",
+   "blocks": [
+    "minecraft:cherry_log",
+    "minecraft:cherry_leaves[persistent=true]",
+    "minecraft:grass_block",
+    "minecraft:dirt",
+    "minecraft:stone",
+    "minecraft:andesite",
+    "minecraft:pink_wool",
+    "minecraft:iron_ore"
+   ],
+   "length": 800
+  },
+  {
+   "name": "Berge",
+   "blocks": [
+    "minecraft:stone",
+    "minecraft:stone",
+    "minecraft:cobblestone",
+    "minecraft:andesite",
+    "minecraft:diorite",
+    "minecraft:granite",
+    "minecraft:snow_block",
+    "minecraft:coal_ore",
+    "minecraft:iron_ore"
+   ],
+   "length": 800
+  },
+  {
+   "name": "Ozean",
+   "blocks": [
+    "minecraft:clay",
+    "minecraft:clay",
+    "minecraft:prismarine",
+    "minecraft:dark_prismarine",
+    "minecraft:sponge",
+    "minecraft:wet_sponge",
+    "minecraft:prismarine_bricks",
+    "minecraft:sea_lantern",
+    "minecraft:stone",
+    "minecraft:iron_ore"
+   ],
+   "length": 800
+  },
+  {
+   "name": "Warmer Ozean",
+   "blocks": [
+    "minecraft:tube_coral_block",
+    "minecraft:brain_coral_block",
+    "minecraft:bubble_coral_block",
+    "minecraft:fire_coral_block",
+    "minecraft:horn_coral_block",
+    "minecraft:sandstone",
+    "minecraft:sea_lantern",
+    "minecraft:prismarine",
+    "minecraft:stone",
+    "minecraft:iron_ore"
+   ],
+   "length": 800
+  },
+  {
+   "name": "Fluss",
+   "blocks": [
+    "minecraft:clay",
+    "minecraft:clay",
+    "minecraft:dirt",
+    "minecraft:mud",
+    "minecraft:grass_block",
+    "minecraft:packed_mud",
+    "minecraft:coarse_dirt",
+    "minecraft:sandstone",
+    "minecraft:stone",
+    "minecraft:iron_ore"
+   ],
+   "length": 800
+  },
+  {
+   "name": "Pilzinsel",
+   "blocks": [
+    "minecraft:mycelium",
+    "minecraft:mycelium",
+    "minecraft:brown_mushroom_block",
+    "minecraft:red_mushroom_block",
+    "minecraft:mushroom_stem",
+    "minecraft:dirt",
+    "minecraft:coarse_dirt",
+    "minecraft:podzol",
+    "minecraft:stone",
+    "minecraft:iron_ore"
+   ],
+   "length": 800
+  },
+  {
+   "name": "Untergrund",
+   "blocks": [
+    "minecraft:stone",
+    "minecraft:stone",
+    "minecraft:cobblestone",
+    "minecraft:tuff",
+    "minecraft:diorite",
+    "minecraft:granite",
+    "minecraft:andesite",
+    "minecraft:coal_ore",
+    "minecraft:iron_ore"
+   ],
+   "length": 800
+  },
+  {
+   "name": "Ueppige Hoehle",
+   "blocks": [
+    "minecraft:moss_block",
+    "minecraft:moss_block",
+    "minecraft:clay",
+    "minecraft:rooted_dirt",
+    "minecraft:azalea_leaves[persistent=true]",
+    "minecraft:flowering_azalea_leaves[persistent=true]",
+    "minecraft:stone",
+    "minecraft:tuff",
+    "minecraft:iron_ore"
+   ],
+   "length": 800
+  },
+  {
+   "name": "Tropfsteinhoehle",
+   "blocks": [
+    "minecraft:dripstone_block",
+    "minecraft:dripstone_block",
+    "minecraft:stone",
+    "minecraft:tuff",
+    "minecraft:granite",
+    "minecraft:calcite",
+    "minecraft:copper_ore",
+    "minecraft:iron_ore",
+    "minecraft:cobblestone"
+   ],
+   "length": 800
+  },
+  {
+   "name": "Tiefenschiefer",
+   "blocks": [
+    "minecraft:deepslate",
+    "minecraft:deepslate",
+    "minecraft:cobbled_deepslate",
+    "minecraft:tuff",
+    "minecraft:deepslate_coal_ore",
+    "minecraft:deepslate_iron_ore",
+    "minecraft:deepslate_copper_ore",
+    "minecraft:deepslate_redstone_ore",
+    "minecraft:deepslate_lapis_ore"
+   ],
+   "length": 800
+  },
+  {
+   "name": "Tiefe Erze",
+   "blocks": [
+    "minecraft:deepslate",
+    "minecraft:deepslate",
+    "minecraft:deepslate_iron_ore",
+    "minecraft:deepslate_gold_ore",
+    "minecraft:deepslate_redstone_ore",
+    "minecraft:deepslate_lapis_ore",
+    "minecraft:deepslate_emerald_ore",
+    "minecraft:deepslate_copper_ore",
+    "minecraft:tuff"
+   ],
+   "length": 800
+  },
+  {
+   "name": "Diamant und Gold",
+   "blocks": [
+    "minecraft:deepslate",
+    "minecraft:deepslate",
+    "minecraft:stone",
+    "minecraft:deepslate_diamond_ore",
+    "minecraft:diamond_ore",
+    "minecraft:deepslate_gold_ore",
+    "minecraft:gold_ore",
+    "minecraft:iron_ore",
+    "minecraft:lapis_ore",
+    "minecraft:redstone_ore"
+   ],
+   "length": 800
+  },
+  {
+   "name": "Deep Dark",
+   "blocks": [
+    "minecraft:deepslate",
+    "minecraft:deepslate_bricks",
+    "minecraft:cobbled_deepslate",
+    "minecraft:polished_deepslate",
+    "minecraft:deepslate_tiles",
+    "minecraft:sculk",
+    "minecraft:tuff",
+    "minecraft:deepslate_diamond_ore",
+    "minecraft:deepslate_iron_ore"
+   ],
+   "length": 800
+  },
+  {
+   "name": "Geode",
+   "blocks": [
+    "minecraft:amethyst_block",
+    "minecraft:amethyst_block",
+    "minecraft:calcite",
+    "minecraft:smooth_basalt",
+    "minecraft:tuff",
+    "minecraft:dripstone_block",
+    "minecraft:deepslate",
+    "minecraft:copper_ore",
+    "minecraft:iron_ore"
+   ],
+   "length": 800
+  },
+  {
+   "name": "Vulkan",
+   "blocks": [
+    "minecraft:magma_block",
+    "minecraft:obsidian",
+    "minecraft:basalt",
+    "minecraft:blackstone",
+    "minecraft:stone",
+    "minecraft:cobblestone",
+    "minecraft:tuff",
+    "minecraft:smooth_basalt",
+    "minecraft:iron_ore"
+   ],
+   "length": 800
+  },
+  {
+   "name": "Mine und Festung",
+   "blocks": [
+    "minecraft:cobblestone",
+    "minecraft:stone_bricks",
+    "minecraft:mossy_stone_bricks",
+    "minecraft:oak_log",
+    "minecraft:coal_ore",
+    "minecraft:iron_ore"
+   ],
+   "length": 800
+  },
+  {
+   "name": "Portal",
+   "blocks": [
+    "minecraft:obsidian",
+    "minecraft:obsidian",
+    "minecraft:crying_obsidian",
+    "minecraft:netherrack",
+    "minecraft:magma_block",
+    "minecraft:cobblestone",
+    "minecraft:gold_ore",
+    "minecraft:stone",
+    "minecraft:iron_ore"
+   ],
+   "length": 800
+  },
+  {
+   "name": "Nether",
+   "blocks": [
+    "minecraft:netherrack",
+    "minecraft:netherrack",
+    "minecraft:nether_bricks",
+    "minecraft:soul_sand",
+    "minecraft:glowstone",
+    "minecraft:nether_quartz_ore",
+    "minecraft:nether_gold_ore",
+    "minecraft:magma_block",
+    "minecraft:netherrack"
+   ],
+   "length": 800
+  },
+  {
+   "name": "Basalt und Nylium",
+   "blocks": [
+    "minecraft:crimson_nylium",
+    "minecraft:warped_nylium",
+    "minecraft:crimson_stem",
+    "minecraft:warped_stem",
+    "minecraft:nether_wart_block",
+    "minecraft:shroomlight",
+    "minecraft:basalt",
+    "minecraft:blackstone"
+   ],
+   "length": 800
+  },
+  {
+   "name": "End-Insel",
+   "blocks": [
+    "minecraft:end_stone",
+    "minecraft:end_stone",
+    "minecraft:end_stone",
+    "minecraft:obsidian",
+    "minecraft:end_stone_bricks",
+    "minecraft:purpur_block",
+    "minecraft:purpur_pillar"
+   ],
+   "length": 800
+  },
+  {
+   "name": "End-Stadt",
+   "blocks": [
+    "minecraft:purpur_block",
+    "minecraft:purpur_block",
+    "minecraft:purpur_pillar",
+    "minecraft:end_stone_bricks",
+    "minecraft:end_stone",
+    "minecraft:obsidian",
+    "minecraft:magenta_stained_glass",
+    "minecraft:end_stone"
+   ],
+   "length": 800
+  }
+ ],
+ "waves": [
+  {
+   "mobs": [
+    "minecraft:skeleton",
+    "minecraft:zombie",
+    "minecraft:skeleton"
+   ],
+   "effects": [
+    {
+     "id": "minecraft:fire_resistance",
+     "amp": 0
+    }
+   ],
+   "duration": 3600,
+   "strength": 1
+  },
+  {
+   "mobs": [
+    "minecraft:zombie",
+    "minecraft:skeleton",
+    "minecraft:zombie"
+   ],
+   "effects": [
+    {
+     "id": "minecraft:fire_resistance",
+     "amp": 0
+    }
+   ],
+   "duration": 3600,
+   "strength": 1
+  },
+  {
+   "mobs": [
+    "minecraft:skeleton",
+    "minecraft:zombie",
+    "minecraft:skeleton",
+    "minecraft:zombie"
+   ],
+   "effects": [
+    {
+     "id": "minecraft:fire_resistance",
+     "amp": 0
+    }
+   ],
+   "duration": 3600,
+   "strength": 1
+  },
+  {
+   "mobs": [
+    "minecraft:zombie",
+    "minecraft:skeleton",
+    "minecraft:zombie",
+    "minecraft:skeleton"
+   ],
+   "effects": [
+    {
+     "id": "minecraft:fire_resistance",
+     "amp": 0
+    }
+   ],
+   "duration": 3600,
+   "strength": 1
+  },
+  {
+   "mobs": [
+    "minecraft:skeleton",
+    "minecraft:spider",
+    "minecraft:husk",
+    "minecraft:zombie",
+    "minecraft:skeleton"
+   ],
+   "effects": [
+    {
+     "id": "minecraft:fire_resistance",
+     "amp": 0
+    },
+    {
+     "id": "minecraft:strength",
+     "amp": 0
+    }
+   ],
+   "duration": 3600,
+   "strength": 2
+  },
+  {
+   "mobs": [
+    "minecraft:spider",
+    "minecraft:husk",
+    "minecraft:zombie",
+    "minecraft:skeleton",
+    "minecraft:spider"
+   ],
+   "effects": [
+    {
+     "id": "minecraft:fire_resistance",
+     "amp": 0
+    },
+    {
+     "id": "minecraft:strength",
+     "amp": 0
+    }
+   ],
+   "duration": 3600,
+   "strength": 2
+  },
+  {
+   "mobs": [
+    "minecraft:husk",
+    "minecraft:zombie",
+    "minecraft:skeleton",
+    "minecraft:spider",
+    "minecraft:husk",
+    "minecraft:zombie"
+   ],
+   "effects": [
+    {
+     "id": "minecraft:fire_resistance",
+     "amp": 0
+    },
+    {
+     "id": "minecraft:strength",
+     "amp": 0
+    }
+   ],
+   "duration": 3600,
+   "strength": 2
+  },
+  {
+   "mobs": [
+    "minecraft:zombie",
+    "minecraft:skeleton",
+    "minecraft:spider",
+    "minecraft:husk",
+    "minecraft:zombie",
+    "minecraft:skeleton"
+   ],
+   "effects": [
+    {
+     "id": "minecraft:fire_resistance",
+     "amp": 0
+    },
+    {
+     "id": "minecraft:strength",
+     "amp": 0
+    }
+   ],
+   "duration": 3600,
+   "strength": 2
+  },
+  {
+   "mobs": [
+    "minecraft:husk",
+    "minecraft:stray",
+    "minecraft:witch",
+    "minecraft:zombie",
+    "minecraft:skeleton",
+    "minecraft:spider",
+    "minecraft:husk"
+   ],
+   "effects": [
+    {
+     "id": "minecraft:fire_resistance",
+     "amp": 0
+    },
+    {
+     "id": "minecraft:strength",
+     "amp": 1
+    },
+    {
+     "id": "minecraft:resistance",
+     "amp": 0
+    }
+   ],
+   "duration": 3600,
+   "strength": 3
+  },
+  {
+   "mobs": [
+    "minecraft:stray",
+    "minecraft:witch",
+    "minecraft:zombie",
+    "minecraft:skeleton",
+    "minecraft:spider",
+    "minecraft:husk",
+    "minecraft:stray"
+   ],
+   "effects": [
+    {
+     "id": "minecraft:fire_resistance",
+     "amp": 0
+    },
+    {
+     "id": "minecraft:strength",
+     "amp": 1
+    },
+    {
+     "id": "minecraft:resistance",
+     "amp": 0
+    }
+   ],
+   "duration": 3600,
+   "strength": 3
+  },
+  {
+   "mobs": [
+    "minecraft:witch",
+    "minecraft:zombie",
+    "minecraft:skeleton",
+    "minecraft:spider",
+    "minecraft:husk",
+    "minecraft:stray",
+    "minecraft:witch",
+    "minecraft:zombie"
+   ],
+   "effects": [
+    {
+     "id": "minecraft:fire_resistance",
+     "amp": 0
+    },
+    {
+     "id": "minecraft:strength",
+     "amp": 1
+    },
+    {
+     "id": "minecraft:resistance",
+     "amp": 0
+    }
+   ],
+   "duration": 3600,
+   "strength": 3
+  },
+  {
+   "mobs": [
+    "minecraft:zombie",
+    "minecraft:skeleton",
+    "minecraft:spider",
+    "minecraft:husk",
+    "minecraft:stray",
+    "minecraft:witch",
+    "minecraft:zombie",
+    "minecraft:skeleton"
+   ],
+   "effects": [
+    {
+     "id": "minecraft:fire_resistance",
+     "amp": 0
+    },
+    {
+     "id": "minecraft:strength",
+     "amp": 1
+    },
+    {
+     "id": "minecraft:resistance",
+     "amp": 0
+    }
+   ],
+   "duration": 3600,
+   "strength": 3
+  },
+  {
+   "mobs": [
+    "minecraft:witch",
+    "minecraft:vindicator",
+    "minecraft:pillager",
+    "minecraft:zombie",
+    "minecraft:skeleton",
+    "minecraft:spider",
+    "minecraft:husk",
+    "minecraft:stray",
+    "minecraft:witch"
+   ],
+   "effects": [
+    {
+     "id": "minecraft:fire_resistance",
+     "amp": 0
+    },
+    {
+     "id": "minecraft:strength",
+     "amp": 2
+    },
+    {
+     "id": "minecraft:resistance",
+     "amp": 1
+    }
+   ],
+   "duration": 3600,
+   "strength": 4
+  },
+  {
+   "mobs": [
+    "minecraft:vindicator",
+    "minecraft:pillager",
+    "minecraft:zombie",
+    "minecraft:skeleton",
+    "minecraft:spider",
+    "minecraft:husk",
+    "minecraft:stray",
+    "minecraft:witch",
+    "minecraft:vindicator"
+   ],
+   "effects": [
+    {
+     "id": "minecraft:fire_resistance",
+     "amp": 0
+    },
+    {
+     "id": "minecraft:strength",
+     "amp": 2
+    },
+    {
+     "id": "minecraft:resistance",
+     "amp": 1
+    }
+   ],
+   "duration": 3600,
+   "strength": 4
+  },
+  {
+   "mobs": [
+    "minecraft:pillager",
+    "minecraft:zombie",
+    "minecraft:skeleton",
+    "minecraft:spider",
+    "minecraft:husk",
+    "minecraft:stray",
+    "minecraft:witch",
+    "minecraft:vindicator",
+    "minecraft:pillager",
+    "minecraft:zombie"
+   ],
+   "effects": [
+    {
+     "id": "minecraft:fire_resistance",
+     "amp": 0
+    },
+    {
+     "id": "minecraft:strength",
+     "amp": 2
+    },
+    {
+     "id": "minecraft:resistance",
+     "amp": 1
+    }
+   ],
+   "duration": 3600,
+   "strength": 4
+  },
+  {
+   "mobs": [
+    "minecraft:zombie",
+    "minecraft:skeleton",
+    "minecraft:spider",
+    "minecraft:husk",
+    "minecraft:stray",
+    "minecraft:witch",
+    "minecraft:vindicator",
+    "minecraft:pillager",
+    "minecraft:zombie",
+    "minecraft:skeleton"
+   ],
+   "effects": [
+    {
+     "id": "minecraft:fire_resistance",
+     "amp": 0
+    },
+    {
+     "id": "minecraft:strength",
+     "amp": 2
+    },
+    {
+     "id": "minecraft:resistance",
+     "amp": 1
+    }
+   ],
+   "duration": 3600,
+   "strength": 4
+  },
+  {
+   "mobs": [
+    "minecraft:pillager",
+    "minecraft:phantom",
+    "minecraft:evoker",
+    "minecraft:zombie",
+    "minecraft:skeleton",
+    "minecraft:spider",
+    "minecraft:husk",
+    "minecraft:stray",
+    "minecraft:witch",
+    "minecraft:vindicator",
+    "minecraft:pillager"
+   ],
+   "effects": [
+    {
+     "id": "minecraft:fire_resistance",
+     "amp": 0
+    },
+    {
+     "id": "minecraft:strength",
+     "amp": 2
+    },
+    {
+     "id": "minecraft:resistance",
+     "amp": 2
+    },
+    {
+     "id": "minecraft:speed",
+     "amp": 0
+    }
+   ],
+   "duration": 3600,
+   "strength": 5
+  },
+  {
+   "mobs": [
+    "minecraft:phantom",
+    "minecraft:evoker",
+    "minecraft:zombie",
+    "minecraft:skeleton",
+    "minecraft:spider",
+    "minecraft:husk",
+    "minecraft:stray",
+    "minecraft:witch",
+    "minecraft:vindicator",
+    "minecraft:pillager",
+    "minecraft:phantom"
+   ],
+   "effects": [
+    {
+     "id": "minecraft:fire_resistance",
+     "amp": 0
+    },
+    {
+     "id": "minecraft:strength",
+     "amp": 2
+    },
+    {
+     "id": "minecraft:resistance",
+     "amp": 2
+    },
+    {
+     "id": "minecraft:speed",
+     "amp": 0
+    }
+   ],
+   "duration": 3600,
+   "strength": 5
+  },
+  {
+   "mobs": [
+    "minecraft:evoker",
+    "minecraft:zombie",
+    "minecraft:skeleton",
+    "minecraft:spider",
+    "minecraft:husk",
+    "minecraft:stray",
+    "minecraft:witch",
+    "minecraft:vindicator",
+    "minecraft:pillager",
+    "minecraft:phantom",
+    "minecraft:evoker",
+    "minecraft:zombie"
+   ],
+   "effects": [
+    {
+     "id": "minecraft:fire_resistance",
+     "amp": 0
+    },
+    {
+     "id": "minecraft:strength",
+     "amp": 2
+    },
+    {
+     "id": "minecraft:resistance",
+     "amp": 2
+    },
+    {
+     "id": "minecraft:speed",
+     "amp": 0
+    }
+   ],
+   "duration": 3600,
+   "strength": 5
+  },
+  {
+   "mobs": [
+    "minecraft:zombie",
+    "minecraft:skeleton",
+    "minecraft:spider",
+    "minecraft:husk",
+    "minecraft:stray",
+    "minecraft:witch",
+    "minecraft:vindicator",
+    "minecraft:pillager",
+    "minecraft:phantom",
+    "minecraft:evoker",
+    "minecraft:zombie",
+    "minecraft:skeleton"
+   ],
+   "effects": [
+    {
+     "id": "minecraft:fire_resistance",
+     "amp": 0
+    },
+    {
+     "id": "minecraft:strength",
+     "amp": 2
+    },
+    {
+     "id": "minecraft:resistance",
+     "amp": 2
+    },
+    {
+     "id": "minecraft:speed",
+     "amp": 0
+    }
+   ],
+   "duration": 3600,
+   "strength": 5
+  },
+  {
+   "mobs": [
+    "minecraft:vex",
+    "minecraft:zombie",
+    "minecraft:skeleton",
+    "minecraft:spider",
+    "minecraft:husk",
+    "minecraft:stray",
+    "minecraft:witch",
+    "minecraft:vindicator",
+    "minecraft:pillager",
+    "minecraft:phantom",
+    "minecraft:evoker",
+    "minecraft:vex",
+    "minecraft:zombie"
+   ],
+   "effects": [
+    {
+     "id": "minecraft:fire_resistance",
+     "amp": 0
+    },
+    {
+     "id": "minecraft:strength",
+     "amp": 2
+    },
+    {
+     "id": "minecraft:resistance",
+     "amp": 2
+    },
+    {
+     "id": "minecraft:speed",
+     "amp": 0
+    }
+   ],
+   "duration": 3600,
+   "strength": 6
+  },
+  {
+   "mobs": [
+    "minecraft:zombie",
+    "minecraft:skeleton",
+    "minecraft:spider",
+    "minecraft:husk",
+    "minecraft:stray",
+    "minecraft:witch",
+    "minecraft:vindicator",
+    "minecraft:pillager",
+    "minecraft:phantom",
+    "minecraft:evoker",
+    "minecraft:vex",
+    "minecraft:zombie",
+    "minecraft:skeleton"
+   ],
+   "effects": [
+    {
+     "id": "minecraft:fire_resistance",
+     "amp": 0
+    },
+    {
+     "id": "minecraft:strength",
+     "amp": 2
+    },
+    {
+     "id": "minecraft:resistance",
+     "amp": 2
+    },
+    {
+     "id": "minecraft:speed",
+     "amp": 0
+    }
+   ],
+   "duration": 3600,
+   "strength": 6
+  },
+  {
+   "mobs": [
+    "minecraft:skeleton",
+    "minecraft:spider",
+    "minecraft:husk",
+    "minecraft:stray",
+    "minecraft:witch",
+    "minecraft:vindicator",
+    "minecraft:pillager",
+    "minecraft:phantom",
+    "minecraft:evoker",
+    "minecraft:vex",
+    "minecraft:zombie",
+    "minecraft:skeleton",
+    "minecraft:spider",
+    "minecraft:husk"
+   ],
+   "effects": [
+    {
+     "id": "minecraft:fire_resistance",
+     "amp": 0
+    },
+    {
+     "id": "minecraft:strength",
+     "amp": 2
+    },
+    {
+     "id": "minecraft:resistance",
+     "amp": 2
+    },
+    {
+     "id": "minecraft:speed",
+     "amp": 0
+    }
+   ],
+   "duration": 3600,
+   "strength": 6
+  },
+  {
+   "mobs": [
+    "minecraft:spider",
+    "minecraft:husk",
+    "minecraft:stray",
+    "minecraft:witch",
+    "minecraft:vindicator",
+    "minecraft:pillager",
+    "minecraft:phantom",
+    "minecraft:evoker",
+    "minecraft:vex",
+    "minecraft:zombie",
+    "minecraft:skeleton",
+    "minecraft:spider",
+    "minecraft:husk",
+    "minecraft:stray"
+   ],
+   "effects": [
+    {
+     "id": "minecraft:fire_resistance",
+     "amp": 0
+    },
+    {
+     "id": "minecraft:strength",
+     "amp": 2
+    },
+    {
+     "id": "minecraft:resistance",
+     "amp": 2
+    },
+    {
+     "id": "minecraft:speed",
+     "amp": 0
+    }
+   ],
+   "duration": 3600,
+   "strength": 6
+  },
+  {
+   "mobs": [
+    "minecraft:skeleton",
+    "minecraft:spider",
+    "minecraft:husk",
+    "minecraft:stray",
+    "minecraft:witch",
+    "minecraft:vindicator",
+    "minecraft:pillager",
+    "minecraft:phantom",
+    "minecraft:evoker",
+    "minecraft:vex",
+    "minecraft:wither_skeleton",
+    "minecraft:zombie",
+    "minecraft:skeleton",
+    "minecraft:spider",
+    "minecraft:husk"
+   ],
+   "effects": [
+    {
+     "id": "minecraft:fire_resistance",
+     "amp": 0
+    },
+    {
+     "id": "minecraft:strength",
+     "amp": 2
+    },
+    {
+     "id": "minecraft:resistance",
+     "amp": 2
+    },
+    {
+     "id": "minecraft:speed",
+     "amp": 0
+    }
+   ],
+   "duration": 3600,
+   "strength": 7
+  },
+  {
+   "mobs": [
+    "minecraft:spider",
+    "minecraft:husk",
+    "minecraft:stray",
+    "minecraft:witch",
+    "minecraft:vindicator",
+    "minecraft:pillager",
+    "minecraft:phantom",
+    "minecraft:evoker",
+    "minecraft:vex",
+    "minecraft:wither_skeleton",
+    "minecraft:zombie",
+    "minecraft:skeleton",
+    "minecraft:spider",
+    "minecraft:husk",
+    "minecraft:stray"
+   ],
+   "effects": [
+    {
+     "id": "minecraft:fire_resistance",
+     "amp": 0
+    },
+    {
+     "id": "minecraft:strength",
+     "amp": 2
+    },
+    {
+     "id": "minecraft:resistance",
+     "amp": 2
+    },
+    {
+     "id": "minecraft:speed",
+     "amp": 0
+    }
+   ],
+   "duration": 3600,
+   "strength": 7
+  },
+  {
+   "mobs": [
+    "minecraft:husk",
+    "minecraft:stray",
+    "minecraft:witch",
+    "minecraft:vindicator",
+    "minecraft:pillager",
+    "minecraft:phantom",
+    "minecraft:evoker",
+    "minecraft:vex",
+    "minecraft:wither_skeleton",
+    "minecraft:zombie",
+    "minecraft:skeleton",
+    "minecraft:spider",
+    "minecraft:husk",
+    "minecraft:stray",
+    "minecraft:witch",
+    "minecraft:vindicator"
+   ],
+   "effects": [
+    {
+     "id": "minecraft:fire_resistance",
+     "amp": 0
+    },
+    {
+     "id": "minecraft:strength",
+     "amp": 2
+    },
+    {
+     "id": "minecraft:resistance",
+     "amp": 2
+    },
+    {
+     "id": "minecraft:speed",
+     "amp": 0
+    }
+   ],
+   "duration": 3600,
+   "strength": 7
+  },
+  {
+   "mobs": [
+    "minecraft:stray",
+    "minecraft:witch",
+    "minecraft:vindicator",
+    "minecraft:pillager",
+    "minecraft:phantom",
+    "minecraft:evoker",
+    "minecraft:vex",
+    "minecraft:wither_skeleton",
+    "minecraft:zombie",
+    "minecraft:skeleton",
+    "minecraft:spider",
+    "minecraft:husk",
+    "minecraft:stray",
+    "minecraft:witch",
+    "minecraft:vindicator",
+    "minecraft:pillager"
+   ],
+   "effects": [
+    {
+     "id": "minecraft:fire_resistance",
+     "amp": 0
+    },
+    {
+     "id": "minecraft:strength",
+     "amp": 2
+    },
+    {
+     "id": "minecraft:resistance",
+     "amp": 2
+    },
+    {
+     "id": "minecraft:speed",
+     "amp": 0
+    }
+   ],
+   "duration": 3600,
+   "strength": 7
+  },
+  {
+   "mobs": [
+    "minecraft:wither_skeleton",
+    "minecraft:blaze",
+    "minecraft:wither_skeleton",
+    "minecraft:blaze",
+    "minecraft:wither_skeleton",
+    "minecraft:blaze",
+    "minecraft:wither_skeleton",
+    "minecraft:blaze",
+    "minecraft:wither_skeleton",
+    "minecraft:blaze",
+    "minecraft:wither_skeleton",
+    "minecraft:blaze",
+    "minecraft:wither_skeleton",
+    "minecraft:blaze",
+    "minecraft:wither_skeleton",
+    "minecraft:blaze",
+    "minecraft:wither_skeleton"
+   ],
+   "effects": [
+    {
+     "id": "minecraft:fire_resistance",
+     "amp": 0
+    },
+    {
+     "id": "minecraft:strength",
+     "amp": 2
+    },
+    {
+     "id": "minecraft:resistance",
+     "amp": 2
+    },
+    {
+     "id": "minecraft:speed",
+     "amp": 0
+    }
+   ],
+   "duration": 3600,
+   "strength": 8
+  },
+  {
+   "mobs": [
+    "minecraft:blaze",
+    "minecraft:wither_skeleton",
+    "minecraft:blaze",
+    "minecraft:wither_skeleton",
+    "minecraft:blaze",
+    "minecraft:wither_skeleton",
+    "minecraft:blaze",
+    "minecraft:wither_skeleton",
+    "minecraft:blaze",
+    "minecraft:wither_skeleton",
+    "minecraft:blaze",
+    "minecraft:wither_skeleton",
+    "minecraft:blaze",
+    "minecraft:wither_skeleton",
+    "minecraft:blaze",
+    "minecraft:wither_skeleton",
+    "minecraft:blaze"
+   ],
+   "effects": [
+    {
+     "id": "minecraft:fire_resistance",
+     "amp": 0
+    },
+    {
+     "id": "minecraft:strength",
+     "amp": 2
+    },
+    {
+     "id": "minecraft:resistance",
+     "amp": 2
+    },
+    {
+     "id": "minecraft:speed",
+     "amp": 0
+    }
+   ],
+   "duration": 3600,
+   "strength": 8
+  },
+  {
+   "mobs": [
+    "minecraft:endermite",
+    "minecraft:phantom",
+    "minecraft:enderman",
+    "minecraft:endermite",
+    "minecraft:phantom",
+    "minecraft:enderman",
+    "minecraft:endermite",
+    "minecraft:phantom",
+    "minecraft:enderman",
+    "minecraft:endermite",
+    "minecraft:phantom",
+    "minecraft:enderman",
+    "minecraft:endermite",
+    "minecraft:phantom",
+    "minecraft:enderman",
+    "minecraft:endermite",
+    "minecraft:phantom",
+    "minecraft:enderman"
+   ],
+   "effects": [
+    {
+     "id": "minecraft:fire_resistance",
+     "amp": 0
+    },
+    {
+     "id": "minecraft:strength",
+     "amp": 2
+    },
+    {
+     "id": "minecraft:resistance",
+     "amp": 2
+    },
+    {
+     "id": "minecraft:speed",
+     "amp": 0
+    }
+   ],
+   "duration": 3600,
+   "strength": 8
+  },
+  {
+   "mobs": [
+    "minecraft:phantom",
+    "minecraft:enderman",
+    "minecraft:endermite",
+    "minecraft:phantom",
+    "minecraft:enderman",
+    "minecraft:endermite",
+    "minecraft:phantom",
+    "minecraft:enderman",
+    "minecraft:endermite",
+    "minecraft:phantom",
+    "minecraft:enderman",
+    "minecraft:endermite",
+    "minecraft:phantom",
+    "minecraft:enderman",
+    "minecraft:endermite",
+    "minecraft:phantom",
+    "minecraft:enderman",
+    "minecraft:endermite"
+   ],
+   "effects": [
+    {
+     "id": "minecraft:fire_resistance",
+     "amp": 0
+    },
+    {
+     "id": "minecraft:strength",
+     "amp": 2
+    },
+    {
+     "id": "minecraft:resistance",
+     "amp": 2
+    },
+    {
+     "id": "minecraft:speed",
+     "amp": 0
+    }
+   ],
+   "duration": 3600,
+   "strength": 8
+  }
+ ],
+ "mobs": {
+  "minecraft:panda": {
+   "persistent": true,
+   "hand": null
+  },
+  "minecraft:stray": {
+   "persistent": false,
+   "hand": "minecraft:bow"
+  },
+  "minecraft:wolf": {
+   "persistent": true,
+   "hand": null
+  },
+  "minecraft:zombie": {
+   "persistent": false,
+   "hand": null
+  },
+  "minecraft:llama": {
+   "persistent": true,
+   "hand": null
+  },
+  "minecraft:chicken": {
+   "persistent": true,
+   "hand": null
+  },
+  "minecraft:skeleton": {
+   "persistent": false,
+   "hand": "minecraft:bow"
+  },
+  "minecraft:creeper": {
+   "persistent": false,
+   "hand": null
+  },
+  "minecraft:sheep": {
+   "persistent": true,
+   "hand": null
+  },
+  "minecraft:armadillo": {
+   "persistent": true,
+   "hand": null
+  },
+  "minecraft:spider": {
+   "persistent": false,
+   "hand": null
+  },
+  "minecraft:blaze": {
+   "persistent": false,
+   "hand": null
+  },
+  "minecraft:pig": {
+   "persistent": true,
+   "hand": null
+  },
+  "minecraft:rabbit": {
+   "persistent": true,
+   "hand": null
+  },
+  "minecraft:donkey": {
+   "persistent": true,
+   "hand": null
+  },
+  "minecraft:villager": {
+   "persistent": true,
+   "hand": null
+  },
+  "minecraft:parrot": {
+   "persistent": true,
+   "hand": null
+  },
+  "minecraft:enderman": {
+   "persistent": false,
+   "hand": null
+  },
+  "minecraft:fox": {
+   "persistent": true,
+   "hand": null
+  },
+  "minecraft:camel": {
+   "persistent": true,
+   "hand": null
+  },
+  "minecraft:cow": {
+   "persistent": true,
+   "hand": null
+  },
+  "minecraft:cat": {
+   "persistent": true,
+   "hand": null
+  },
+  "minecraft:pillager": {
+   "persistent": false,
+   "hand": "minecraft:crossbow"
+  },
+  "minecraft:mooshroom": {
+   "persistent": true,
+   "hand": null
+  },
+  "minecraft:horse": {
+   "persistent": true,
+   "hand": null
+  }
+ },
+ "animalRules": [
+  {
+   "phase": [
+    1,
+    28
+   ],
+   "roll": [
+    1,
+    5
+   ],
+   "mob": "minecraft:cow"
+  },
+  {
+   "phase": [
+    1,
+    28
+   ],
+   "roll": [
+    6,
+    10
+   ],
+   "mob": "minecraft:sheep"
+  },
+  {
+   "phase": [
+    1,
+    28
+   ],
+   "roll": [
+    11,
+    15
+   ],
+   "mob": "minecraft:chicken"
+  },
+  {
+   "phase": [
+    1,
+    28
+   ],
+   "roll": [
+    16,
+    20
+   ],
+   "mob": "minecraft:pig"
+  },
+  {
+   "phase": [
+    1,
+    28
+   ],
+   "roll": [
+    21,
+    23
+   ],
+   "mob": "minecraft:villager"
+  },
+  {
+   "phase": [
+    1,
+    28
+   ],
+   "roll": [
+    24,
+    25
+   ],
+   "mob": "minecraft:horse"
+  },
+  {
+   "phase": [
+    1,
+    28
+   ],
+   "roll": [
+    26,
+    26
+   ],
+   "mob": "minecraft:donkey"
+  },
+  {
+   "phase": [
+    1,
+    28
+   ],
+   "roll": [
+    27,
+    28
+   ],
+   "mob": "minecraft:rabbit"
+  },
+  {
+   "phase": [
+    1,
+    28
+   ],
+   "roll": [
+    29,
+    29
+   ],
+   "mob": "minecraft:cat"
+  },
+  {
+   "phase": [
+    1,
+    28
+   ],
+   "roll": [
+    30,
+    30
+   ],
+   "mob": "minecraft:wolf"
+  },
+  {
+   "phase": [
+    1,
+    28
+   ],
+   "roll": [
+    31,
+    31
+   ],
+   "mob": "minecraft:fox"
+  },
+  {
+   "phase": [
+    1,
+    28
+   ],
+   "roll": [
+    32,
+    32
+   ],
+   "mob": "minecraft:llama"
+  },
+  {
+   "phase": [
+    7,
+    7
+   ],
+   "roll": [
+    33,
+    35
+   ],
+   "mob": "minecraft:parrot"
+  },
+  {
+   "phase": [
+    7,
+    7
+   ],
+   "roll": [
+    36,
+    37
+   ],
+   "mob": "minecraft:panda"
+  },
+  {
+   "phase": [
+    9,
+    10
+   ],
+   "roll": [
+    33,
+    35
+   ],
+   "mob": "minecraft:camel"
+  },
+  {
+   "phase": [
+    10,
+    11
+   ],
+   "roll": [
+    36,
+    38
+   ],
+   "mob": "minecraft:armadillo"
+  },
+  {
+   "phase": [
+    17,
+    17
+   ],
+   "roll": [
+    33,
+    38
+   ],
+   "mob": "minecraft:mooshroom"
+  }
+ ],
+ "netherRules": [
+  {
+   "phase": [
+    29,
+    30
+   ],
+   "roll": [
+    1,
+    12
+   ],
+   "mob": "minecraft:blaze"
+  },
+  {
+   "phase": [
+    31,
+    32
+   ],
+   "roll": [
+    1,
+    12
+   ],
+   "mob": "minecraft:enderman"
+  }
+ ],
+ "nightRules": [
+  {
+   "roll": [
+    1,
+    8
+   ],
+   "mob": "minecraft:zombie"
+  },
+  {
+   "roll": [
+    9,
+    14
+   ],
+   "mob": "minecraft:skeleton"
+  },
+  {
+   "roll": [
+    15,
+    20
+   ],
+   "mob": "minecraft:spider"
+  },
+  {
+   "roll": [
+    21,
+    26
+   ],
+   "mob": "minecraft:creeper"
+  }
+ ],
+ "chest": [
+  {
+   "phase": [
+    1,
+    2
+   ],
+   "table": "oneblock:chest/plains"
+  },
+  {
+   "phase": [
+    3,
+    4
+   ],
+   "table": "oneblock:chest/forest"
+  },
+  {
+   "phase": [
+    5,
+    6
+   ],
+   "table": "oneblock:chest/taiga"
+  },
+  {
+   "phase": [
+    7,
+    7
+   ],
+   "table": "oneblock:chest/jungle"
+  },
+  {
+   "phase": [
+    8,
+    8
+   ],
+   "table": "oneblock:chest/swamp"
+  },
+  {
+   "phase": [
+    9,
+    9
+   ],
+   "table": "oneblock:chest/desert"
+  },
+  {
+   "phase": [
+    10,
+    11
+   ],
+   "table": "oneblock:chest/badlands"
+  },
+  {
+   "phase": [
+    12,
+    12
+   ],
+   "table": "oneblock:chest/cherry"
+  },
+  {
+   "phase": [
+    13,
+    13
+   ],
+   "table": "oneblock:chest/mountain"
+  },
+  {
+   "phase": [
+    14,
+    16
+   ],
+   "table": "oneblock:chest/ocean"
+  },
+  {
+   "phase": [
+    17,
+    17
+   ],
+   "table": "oneblock:chest/mushroom"
+  },
+  {
+   "phase": [
+    18,
+    20
+   ],
+   "table": "oneblock:chest/cave"
+  },
+  {
+   "phase": [
+    21,
+    23
+   ],
+   "table": "oneblock:chest/ore"
+  },
+  {
+   "phase": [
+    24,
+    24
+   ],
+   "table": "oneblock:chest/deepdark"
+  },
+  {
+   "phase": [
+    25,
+    25
+   ],
+   "table": "oneblock:chest/geode"
+  },
+  {
+   "phase": [
+    26,
+    28
+   ],
+   "table": "oneblock:chest/volcano"
+  },
+  {
+   "phase": [
+    29,
+    30
+   ],
+   "table": "oneblock:chest/nether"
+  },
+  {
+   "phase": [
+    31,
+    32
+   ],
+   "table": "oneblock:chest/end"
+  }
+ ],
+ "biomeLogs": [
+  {
+   "biome": "minecraft:mangrove_swamp",
+   "block": "minecraft:mangrove_log"
+  },
+  {
+   "biome": "minecraft:swamp",
+   "block": "minecraft:oak_log"
+  },
+  {
+   "biome": "#minecraft:is_taiga",
+   "block": "minecraft:spruce_log"
+  },
+  {
+   "biome": "#minecraft:is_jungle",
+   "block": "minecraft:jungle_log"
+  },
+  {
+   "biome": "#minecraft:is_savanna",
+   "block": "minecraft:acacia_log"
+  },
+  {
+   "biome": "#minecraft:is_badlands",
+   "block": "minecraft:oak_log"
+  },
+  {
+   "biome": "minecraft:desert",
+   "block": "minecraft:sandstone"
+  },
+  {
+   "biome": "minecraft:cherry_grove",
+   "block": "minecraft:cherry_log"
+  },
+  {
+   "biome": "minecraft:dark_forest",
+   "block": "minecraft:dark_oak_log"
+  },
+  {
+   "biome": "minecraft:mushroom_fields",
+   "block": "minecraft:mycelium"
+  },
+  {
+   "biome": "#minecraft:is_ocean",
+   "block": "minecraft:sand"
+  },
+  {
+   "biome": "#minecraft:is_river",
+   "block": "minecraft:sand"
+  },
+  {
+   "biome": "#minecraft:is_beach",
+   "block": "minecraft:sand"
+  },
+  {
+   "biome": "minecraft:snowy_plains",
+   "block": "minecraft:spruce_log"
+  },
+  {
+   "biome": "minecraft:ice_spikes",
+   "block": "minecraft:spruce_log"
+  },
+  {
+   "biome": "minecraft:grove",
+   "block": "minecraft:spruce_log"
+  },
+  {
+   "biome": "minecraft:snowy_slopes",
+   "block": "minecraft:spruce_log"
+  },
+  {
+   "biome": "minecraft:frozen_peaks",
+   "block": "minecraft:spruce_log"
+  },
+  {
+   "biome": "minecraft:jagged_peaks",
+   "block": "minecraft:spruce_log"
+  }
+ ],
+ "biomeLeaves": [
+  {
+   "biome": "minecraft:mangrove_swamp",
+   "block": "minecraft:mangrove_leaves[persistent=true]"
+  },
+  {
+   "biome": "minecraft:swamp",
+   "block": "minecraft:oak_leaves[persistent=true]"
+  },
+  {
+   "biome": "#minecraft:is_taiga",
+   "block": "minecraft:spruce_leaves[persistent=true]"
+  },
+  {
+   "biome": "#minecraft:is_jungle",
+   "block": "minecraft:jungle_leaves[persistent=true]"
+  },
+  {
+   "biome": "#minecraft:is_savanna",
+   "block": "minecraft:acacia_leaves[persistent=true]"
+  },
+  {
+   "biome": "#minecraft:is_badlands",
+   "block": "minecraft:oak_leaves[persistent=true]"
+  },
+  {
+   "biome": "minecraft:desert",
+   "block": "minecraft:sandstone"
+  },
+  {
+   "biome": "minecraft:cherry_grove",
+   "block": "minecraft:cherry_leaves[persistent=true]"
+  },
+  {
+   "biome": "minecraft:dark_forest",
+   "block": "minecraft:dark_oak_leaves[persistent=true]"
+  },
+  {
+   "biome": "minecraft:mushroom_fields",
+   "block": "minecraft:mycelium"
+  },
+  {
+   "biome": "#minecraft:is_ocean",
+   "block": "minecraft:sand"
+  },
+  {
+   "biome": "#minecraft:is_river",
+   "block": "minecraft:sand"
+  },
+  {
+   "biome": "#minecraft:is_beach",
+   "block": "minecraft:sand"
+  },
+  {
+   "biome": "minecraft:snowy_plains",
+   "block": "minecraft:spruce_leaves[persistent=true]"
+  },
+  {
+   "biome": "minecraft:ice_spikes",
+   "block": "minecraft:spruce_leaves[persistent=true]"
+  },
+  {
+   "biome": "minecraft:grove",
+   "block": "minecraft:spruce_leaves[persistent=true]"
+  },
+  {
+   "biome": "minecraft:snowy_slopes",
+   "block": "minecraft:spruce_leaves[persistent=true]"
+  },
+  {
+   "biome": "minecraft:frozen_peaks",
+   "block": "minecraft:spruce_leaves[persistent=true]"
+  },
+  {
+   "biome": "minecraft:jagged_peaks",
+   "block": "minecraft:spruce_leaves[persistent=true]"
+  }
+ ],
+ "islands": [
+  {
+   "dye": "lime_dye",
+   "name": "Gruen",
+   "color": "#70ce5e",
+   "light": "#9cff7a",
+   "dark": "#0a5c1e",
+   "name_ascii": "Gruen"
+  },
+  {
+   "dye": "white_dye",
+   "name": "Weiss",
+   "color": "#c9c9c9",
+   "light": "#ffffff",
+   "dark": "#4a4a4a",
+   "name_ascii": "Weiss"
+  },
+  {
+   "dye": "red_dye",
+   "name": "Rot",
+   "color": "#d74b4b",
+   "light": "#ff6b6b",
+   "dark": "#7a0000",
+   "name_ascii": "Rot"
+  },
+  {
+   "dye": "light_blue_dye",
+   "name": "Blau",
+   "color": "#6595d7",
+   "light": "#8cc8ff",
+   "dark": "#0a1e7a",
+   "name_ascii": "Blau"
+  },
+  {
+   "dye": "yellow_dye",
+   "name": "Gelb",
+   "color": "#dccc55",
+   "light": "#fff27a",
+   "dark": "#8c7300",
+   "name_ascii": "Gelb"
+  },
+  {
+   "dye": "orange_dye",
+   "name": "Orange",
+   "color": "#dc8d47",
+   "light": "#ffb066",
+   "dark": "#8a3a00",
+   "name_ascii": "Orange"
+  },
+  {
+   "dye": "purple_dye",
+   "name": "Lila",
+   "color": "#ae77d7",
+   "light": "#d9a6ff",
+   "dark": "#4a0a7a",
+   "name_ascii": "Lila"
+  },
+  {
+   "dye": "cyan_dye",
+   "name": "Tuerkis",
+   "color": "#62cdc7",
+   "light": "#8cfff5",
+   "dark": "#00595c",
+   "name_ascii": "Tuerkis"
+  },
+  {
+   "dye": "pink_dye",
+   "name": "Rosa",
+   "color": "#dc7eb8",
+   "light": "#ffa6e0",
+   "dark": "#8a1f5c",
+   "name_ascii": "Rosa"
+  },
+  {
+   "dye": "brown_dye",
+   "name": "Braun",
+   "color": "#ae8a65",
+   "light": "#d9b38c",
+   "dark": "#4a2a0a",
+   "name_ascii": "Braun"
+  },
+  {
+   "dye": "magenta_dye",
+   "name": "Magenta",
+   "color": "#d75ad7",
+   "light": "#ff80ff",
+   "dark": "#7a007a",
+   "name_ascii": "Magenta"
+  },
+  {
+   "dye": "green_dye",
+   "name": "Limette",
+   "color": "#b3d347",
+   "light": "#e6ff66",
+   "dark": "#3d6b00",
+   "name_ascii": "Limette"
+  }
+ ]
+}
